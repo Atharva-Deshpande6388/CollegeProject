@@ -64,3 +64,20 @@ Komodo IDE and its user-friendly interface are suitable for both beginning and 
  CoffeeCup HTML Editor is especially useful for new developers who are more interested in learning to code than in a visual interface. This robust editor comes with templates and has validation checkers to help keep your code free of errors. It includes code completion and supports other coding languages you might use in conjunction with HTML. The software highlights errors, explains why they appeared, and tells you how to fix them. CoffeeCup HTML Editor runs on Windows.
 
 Visual Studio is an Integrated Development Environment(IDE) developed by Microsoft to develop GUI(Graphical User Interface), console, Web applications, web apps, mobile apps, cloud, and web services, etc. With the help of this IDE, you can create managed code as well as native code. It uses the various platforms of Microsoft software development software like Windows store, Microsoft Silverlight, and Windows API, etc. It is not a language-specific IDE as you can use this to write code in C#, C++, VB(Visual Basic), Python, JavaScript, and many more languages. It provides support for 36 different programming languages. It is available for Windows as well as for macOS.
+
+
+
+
+Future Scope
+
+    • Enhance user engagement with interactive elements like quizzes or polls.
+    • Expand functionality with new pages or features like a blog section or job portal.
+    • Optimize the website for mobile devices to reach more users.
+    • Improve accessibility for people with disabilities by adding alt text and captions.
+    • Utilize search engine optimization (SEO) to increase visibility in search results.
+    • Add social media integration to make it easier for users to share content and connect with your college.
+References
+
+https://shivchhatrapaticollege.org/
+https://www.geeksforgeeks.org/web-technology/html-css/
+https://www.tutorialspoint.com/html/index.htm
