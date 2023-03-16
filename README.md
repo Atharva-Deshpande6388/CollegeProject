@@ -79,5 +79,7 @@ Future Scope
 References
 
 https://shivchhatrapaticollege.org/
+
 https://www.geeksforgeeks.org/web-technology/html-css/
+
 https://www.tutorialspoint.com/html/index.htm
